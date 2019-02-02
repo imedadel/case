@@ -1,4 +1,7 @@
 module.exports = {
+  siteMetadata: {
+    siteUrl: `https://case.imedadel.me`,
+  },
     plugins: [
       {
         resolve: `gatsby-plugin-manifest`,
@@ -16,6 +19,7 @@ module.exports = {
       },
       'gatsby-plugin-offline',
       `gatsby-plugin-react-helmet`,
+      `gatsby-plugin-sitemap`,
       {
         resolve: `gatsby-plugin-typography`,
         options: {
