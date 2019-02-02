@@ -55,6 +55,7 @@ export default () => (<main>
           name="viewport"
           content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover"
         />
+        <meta name="google-site-verification" content="zTgLUUdv7vAoD9OEXQf1Lurh9PxlHof08WW1h3p1cgw" />
 
         <meta property="og:url" content="https://case.imedadel.me" />
         <meta property="og:type" content="website" />
