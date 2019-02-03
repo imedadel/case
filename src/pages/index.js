@@ -57,6 +57,7 @@ export default () => (<main>
         />
         <meta name="google-site-verification" content="zTgLUUdv7vAoD9OEXQf1Lurh9PxlHof08WW1h3p1cgw" />
         <meta name="msvalidate.01" content="D2ECEF51E4DAF349AA4E295011F6A257" />
+        <meta name="yandex-verification" content="44ac89a41b3dd42e" />
 
         <meta property="og:url" content="https://case.imedadel.me" />
         <meta property="og:type" content="website" />
