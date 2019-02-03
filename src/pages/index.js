@@ -56,6 +56,7 @@ export default () => (<main>
           content="width=device-width,initial-scale=1,shrink-to-fit=no,viewport-fit=cover"
         />
         <meta name="google-site-verification" content="zTgLUUdv7vAoD9OEXQf1Lurh9PxlHof08WW1h3p1cgw" />
+        <meta name="msvalidate.01" content="D2ECEF51E4DAF349AA4E295011F6A257" />
 
         <meta property="og:url" content="https://case.imedadel.me" />
         <meta property="og:type" content="website" />
